@@ -19,7 +19,7 @@ Programa exclusivo promovido pela Rocketseat para ensino de tecnologias WEB. <br
 ## Projetos
 
 <p align="center">
-  <img alt="" src=".github/preview.jpg" width="100%">
+  <img alt="" src=".github/preview.JPG" width="100%">
 </p>
 <br>
 
